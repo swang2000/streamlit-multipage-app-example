@@ -15,7 +15,7 @@ This version, I started to build the app
 
 import os
 # os.chdir('./Doc_analyer')
-print(os.getcwd())
+#print(os.getcwd())
 import tempfile
 import streamlit as st
 from streamlit_option_menu import option_menu
